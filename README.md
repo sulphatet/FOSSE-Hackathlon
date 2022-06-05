@@ -9,3 +9,4 @@ My entry to the FOSSE python hackathlon.
   4. As time goes on, your visibility will be affected.
   5. Survive for as long as you can, your final score will be displayed.
   6. Have fun!
+
