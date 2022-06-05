@@ -10,3 +10,5 @@ My entry to the FOSSE python hackathlon.
   5. Survive for as long as you can, your final score will be displayed.
   6. Have fun!
 
+<img align="left" width="450" height="400" src="https://github.com/sulphatet/FOSSE-Hackathlon/blob/main/src_files/level_1.PNG">
+<img align="right" width="450" height="400" src="https://github.com/sulphatet/FOSSE-Hackathlon/blob/main/src_files/level_2.PNG">
