@@ -68,12 +68,12 @@ def isCollision(enemyX,enemyY,bulletX,bulletY):
 
 color = 200
 playerChangeX = 0
+
 #game loop
 running = True
 z = 1
 x = time.time()
-while running: 
-    #print(pygame.event.get())
+while running:
     screen.fill((color,color,color))
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
@@ -144,9 +144,6 @@ while running:
     if bullet_state == "fire":
         fire_bullet(bulletX,bulletY)
         bulletY -=bulletChangeY
-    #change the color
-    #screen.fill((0,255,0))
-    #pygame.display.update() it kept changing lol
 
     player(playerX,playerY)
     pygame.display.update()
